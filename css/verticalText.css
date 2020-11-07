@@ -1,0 +1,8 @@
+.popup_text {
+    display: block;
+    text-align: center;
+    margin-top: -5px;
+}
+.popup_text_br {
+    margin-top: 10px;
+}
